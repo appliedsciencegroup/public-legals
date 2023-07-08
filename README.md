@@ -1,6 +1,7 @@
+# Applied Science Public Legal Documents
+
 ![](github-repo-header.png)
 
-# Applied Science
 
 This is a code repository dedicated to some publicly facing legal documents for Applied Science.
 

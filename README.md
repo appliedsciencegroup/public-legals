@@ -1,7 +1,16 @@
-# APPLIED SCIENCE
-List of publi legals
+# Our Public Legal Documents
 
-Link to our [privacy policy](./privacy-policy.md)
+![](github-repo-header.png)
 
-Link to our [terms and conditions](./terms-and-conditions.md)
 
+This is a code repository dedicated to some publicly facing legal documents for Applied Science. 
+
+
+1. Here is a link to our [privacy policy](./privacy-policy.md)
+
+2. Here is a link to our [terms and conditions](./terms-and-conditions.md)
+
+
+**TODO**
+
+- [ ] Open Source + source code policies

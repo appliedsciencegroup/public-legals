@@ -1,6 +1,6 @@
 # APPLIED SCIENCE
 
-![](./github-repo-header.png)
+![](github-repo-header.png)
 
 
 

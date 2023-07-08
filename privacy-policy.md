@@ -1,6 +1,4 @@
-# Applied Science Public Legal Docs
-
-## PRIVACY POLICY
+# PRIVACY POLICY
 
 **Last Updated: July 8, 2023**
 

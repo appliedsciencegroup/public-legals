@@ -53,26 +53,39 @@ If you are a resident of the European Economic Area (EEA), you have certain data
 
 Please note that we may ask you to verify your identity before responding to such requests.
 
-**6. RETENTION OF DATA**
+**6. YOUR CCPA RIGHTS**
+
+If you are a resident of California, you are granted specific rights regarding access to your personal information.
+
+* The right to know about the personal information a business collects about them and how it is used and shared.
+* The right to delete personal information collected from them (with some exceptions).
+* The right to opt-out of the sale of their personal information.
+* The right to non-discrimination for exercising their CCPA rights.
+
+Businesses are required to give consumers certain disclosures explaining their privacy practices. If you want to exercise your rights under CCPA, please contact us at privacy@appliedscience.group.
+
+**7. RETENTION OF DATA**
 
 We will retain your Personal Data only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your Personal Data to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our legal agreements and policies.
 
-**7. TRANSFER OF DATA**
+**8. TRANSFER OF DATA**
 
-Your information, including Personal Data, is processed at our operating offices and in any other places where the parties involved in the processing are located. It means that this information may not be transferred and maintained on computers located outside of your state, province, country, or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction. 
+Your information, including Personal Data, is processed at our operating offices and in any other places where the parties involved in the processing are located. It means that this information may not be transferred and maintained on computers located outside of your state, province, country, or other governmental jurisdiction where the data protection laws may differ than those from your jurisdiction.
 
-**8. YOUR RIGHTS**
+**9. YOUR RIGHTS**
 
 You have the right to access, update, or to delete the personal information we have on you. You can do this by contacting us at privacy@appliedscience.group.
 
-**9. SECURITY OF DATA**
+**10. SECURITY OF DATA**
 
 The security of your data is important to us but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Data, we cannot guarantee its absolute security.
 
-**10. DATA PROTECTION OFFICER**
+**11. DATA PROTECTION OFFICER**
 
 We have appointed a Data Protection Officer (DPO) who is responsible for overseeing questions in relation to this privacy policy. If you have any questions about this privacy policy, including any requests to exercise your legal rights, please contact the DPO at dataprotection@appliedscience.group.
 
-**11. CHANGES TO THIS PRIVACY POLICY**
+**12. CHANGES TO THIS PRIVACY POLICY**
 
-We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. We will let you know via email and/or a prominent notice on our Website, prior to the change becoming effective and update the "last updated" date at the top of this Privacy Policy. You are advised to review this Privacy Policy periodically for any changes.
+We may update our Privacy Policy from time to time. We will notify you of any changes by
+
+posting the new Privacy Policy on this page. We will let you know via email and/or a prominent notice on our Website, prior to the change becoming effective and update the "last updated" date at the top of this Privacy Policy. You are advised to review this Privacy Policy periodically for any changes.

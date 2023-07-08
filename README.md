@@ -10,3 +10,7 @@ This is a code repository dedicated to some publicly facing legal documents for 
 
 2. Here is a link to our [terms and conditions](./terms-and-conditions.md)
 
+
+**TODO**
+
+- [ ] Open Source + source code policies
